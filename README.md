@@ -2,6 +2,12 @@
 
 🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼
 
+I am a law enthusiast and also a student.
+
+Publishing useful resources online, so anyone interested can have a look 🙂.
+
+I am also a data analyst and technology/IT enthusiast, who is trying to learn as much as possible.
+
 <!--
 **Dominik-97/Dominik-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
