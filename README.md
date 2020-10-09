@@ -1,7 +1,10 @@
 [![Header](https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/Header.jpg "Header")](https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/Header.jpg)
 
 
-### Hi there 👋
+### <img src="https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/wawing-hand-transparent.gif" width="50px">
+Hi there <img src="https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/wawing-hand-transparent.gif" width="50px">
+
+
 
 🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼
 
@@ -18,6 +21,8 @@ I am also a data analyst and technology/IT enthusiast, who is trying to learn as
 **Dominik-97/Dominik-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+👋👋👋👋👋👋👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
