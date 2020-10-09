@@ -1,8 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/Header.jpg "Header")](https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/Header.jpg)
 
 
-### <img src="https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/wawing-hand-transparent.gif" width="50px">
-Hi there <img src="https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/wawing-hand-transparent.gif" width="50px">
+### <img src="https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/wawing-hand-transparent.gif" width="50px"> Hi there <img src="https://raw.githubusercontent.com/Dominik-97/Dominik-97/master/assets/wawing-hand-transparent.gif" width="50px">
 
 
 
