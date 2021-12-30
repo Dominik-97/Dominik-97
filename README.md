@@ -33,8 +33,8 @@ and of course, :book: **law** :book:.
 
 ## :chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:
 
-[![Dominik-97's github stats](https://github-readme-stats.vercel.app/api?username=Dominik-97&repo=go-project-blueprint&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=2196f3)](https://github.com/Dominik-97)
-[![Dominik-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominik-97&hide=java,html,rtf,Rich%20Text%20Format&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2196f3)](https://github.com/Dominik-97)
+| [![Dominik-97's github stats](https://github-readme-stats.vercel.app/api?username=Dominik-97&repo=go-project-blueprint&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=2196f3)](https://github.com/Dominik-97) | [![Dominik-97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominik-97&hide=java,html,rtf,Rich%20Text%20Format&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=2196f3)](https://github.com/Dominik-97) |
+| --- | --- |
 
 <!--
 **Dominik-97/Dominik-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
