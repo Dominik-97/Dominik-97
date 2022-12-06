@@ -12,7 +12,7 @@ I am a law enthusiast and also a student.
 
 Publishing useful resources online, so anyone interested can have a look 🙂.
 
-I am also a data analyst and technology/IT enthusiast, who is trying to learn as much as possible.
+I am also a product management specialist, automation development consultant, data analyst and technology/IT enthusiast, who is trying to learn as much as possible.
 
 Let's connect on <a href="https://twitter.com/bal_dom"><img alt="Twitter" src="https://simpleicons.org/icons/twitter.svg" width="15px"></a>, or on <a href="https://cz.linkedin.com/in/dominik-bálint-009463145/cs-cz"><img alt="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg" width="15px"></a>.
 
@@ -21,15 +21,17 @@ Let's connect on <a href="https://twitter.com/bal_dom"><img alt="Twitter" src="h
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ZSH-informational?style=flat&logo=GNU%20Zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=VBA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 
-and of course, :book: **law** :book:.
+and of course, :book: **law** :book: and much [more](https://dominik-97.github.io/curriculum-vitae/index.html).
 
 ## :chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:
 
